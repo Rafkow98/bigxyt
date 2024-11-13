@@ -23,8 +23,8 @@ Alternatively, run program in your IDE.
 
 ## Usage
 
-After starting the server, type [localhost:8080](localhost:8080) in browser to open a table. Then it's possible to add new stock exchange order or lower the quantity of previously added order by clicking Remove button. After saving, user is being redirected to the site, where order with best (lowest) buy price and the highest sell price are displayed. 
+After starting the server, type [localhost:8080](http://localhost:8080) in browser to open a table. Then it's possible to add new stock exchange order or lower the quantity of previously added order by clicking Remove button. After saving, user is being redirected to the site, where order with best (lowest) buy price and the highest sell price are displayed. 
 
 Application is cleared from added data every restart, so after restarting only predefined rows will be shown.
 
-Application is also hosted on a private server, to access it, navigate to [this URL](185.181.10.145:8080).
+Application is also hosted on a private server, to access it, navigate to [this URL](http://185.181.10.145:8080).
